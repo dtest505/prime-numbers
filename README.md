@@ -1,7 +1,7 @@
 # prime-numbers
-Just a list of prime numbers
+Just a list of prime numbers.  
 Currently to 0 to just over 40 million (roughly 5.5 million prime numbers)
-Will be updates as the job continues.  EWach file is 2 million prime numbers
+Will be updates as the job continues to run.  Each file is 2 million prime numbers
 
  part aa 11 through 30,399,359
  
